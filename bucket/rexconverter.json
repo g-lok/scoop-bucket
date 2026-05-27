@@ -1,0 +1,30 @@
+{
+  "version": "v0.1.1",
+  "description": "Convert ReCycle (.rex/.rx2) files to cued WAV for M8 and DAWs",
+  "homepage": "https://github.com/g-lok/rexconverter",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/g-lok/rexconverter/releases/download/vREPLACE_ME/rexconverter-REPLACE_ME-windows.zip",
+      "hash": "1e75528738d2ab24fb677ef225725f8d3f3fa5eca1a287021a8b5cd844d84f85"
+    }
+  },
+  "bin": "rexconverter.exe",
+  "shortcuts": [
+    [
+      "rexconverter.exe",
+      "REX Converter"
+    ]
+  ],
+  "checkver": {
+    "github": "https://github.com/g-lok/rexconverter"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/g-lok/rexconverter/releases/download/v$version/rexconverter-$version-windows.zip"
+      }
+    }
+  },
+  "notes": "REX Shared Library.dll must be in the same directory as rexconverter.exe."
+}
