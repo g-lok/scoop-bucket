@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/g-lok/rexconverter/releases/download/vREPLACE_ME/rexconverter-REPLACE_ME-windows.zip",
+      "url": "https://github.com/g-lok/rexconverter/releases/download/v0.1.1/rexconverter-v0.1.1-windows.zip",
       "hash": "1e75528738d2ab24fb677ef225725f8d3f3fa5eca1a287021a8b5cd844d84f85"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/g-lok/rexconverter/releases/download/v$version/rexconverter-$version-windows.zip"
+        "url": "https://github.com/g-lok/rexconverter/releases/download/$version/rexconverter-$version-windows.zip"
       }
     }
   },
