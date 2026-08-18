@@ -1,19 +1,19 @@
 {
-  "version": "v1.4.2",
+  "version": "v1.4.3",
   "description": "Cross-format sliced instrument converter for hardware samplers and DAWs",
   "homepage": "https://github.com/g-lok/chirashi",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/g-lok/chirashi/releases/download/v1.4.2/chirashi-v1.4.2-windows-amd64.zip",
-      "hash": "6b5a2eb9e9aa4fe8373040986a54c507e36430a4d8ab50e9725f86e1273f379d",
-      "extract_dir": "chirashi-v1.4.2-windows-amd64"
+      "url": "https://github.com/g-lok/chirashi/releases/download/v1.4.3/chirashi-v1.4.3-windows-amd64.zip",
+      "hash": "e1333e1ab2d344832cafccef7e1d68ddb2e84cd627cdcfc92e58db02d0e36b21",
+      "extract_dir": "chirashi-v1.4.3-windows-amd64"
     }
   },
-  "bin": "chirashi-v1.4.2-windows-amd64\\\\chirashi.exe",
+  "bin": "chirashi-v1.4.3-windows-amd64\\\\chirashi.exe",
   "shortcuts": [
     [
-      "chirashi-v1.4.2-windows-amd64\\\\chirashi.exe",
+      "chirashi-v1.4.3-windows-amd64\\\\chirashi.exe",
       "chirashi"
     ]
   ],
