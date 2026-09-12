@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/g-lok/chirashi/releases/download/v1.5.0/chirashi-v1.5.0-windows-amd64.zip",
-      "hash": "145d276ad82552121cea744e4027b0a89d5708ffabc181f633fcae0987344bac",
+      "hash": "4098d4ecb1b3cbfd8c39fdfb88b3d1d56277ba14a7235a3a80831b631270e741",
       "extract_dir": "chirashi-v1.5.0-windows-amd64"
     }
   },
